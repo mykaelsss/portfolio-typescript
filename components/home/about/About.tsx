@@ -21,15 +21,15 @@ export const About = () => {
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
-            When I&apos;m not coding, you'll find me immersed in video games—
-            I&apos;ve been a passionate gamer since I was just 3 years old!
+            When I'm not coding, you'll find me immersed in video games—
+            I've been a passionate gamer since I was just 3 years old!
             Additionally, fitness is a big part of my life;
-            I&apos;ve been working out since I was 15.
+            I've been working out since I was 15.
             </p>
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
-              I&apos;m actively seeking new opportunities where I can put my skills to the test and continue growing as a developer.
+              I'm actively seeking new opportunities where I can put my skills to the test and continue growing as a developer.
               If you know of any openings that might be a great fit, let's connect!
               I'm eager to take on new challenges and make a positive impact in the world of development.
               🔗
