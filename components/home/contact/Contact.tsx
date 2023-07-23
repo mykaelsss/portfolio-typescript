@@ -22,7 +22,7 @@ export const Contact = () => {
             >
               Linkedin
             </Link>{" "}
-            if that's more your speed.
+            if thataspos;s more your speed.
           </p>
         </Reveal>
         <Reveal width="100%">
