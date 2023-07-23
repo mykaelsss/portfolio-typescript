@@ -19,7 +19,7 @@ export const Projects = () => {
 const projects = [
   {
     title: "Endangered Animals",
-    imgSrc: "project-imgs/Endangered_Home_page.png",
+    imgSrc: "project-imgs/Endangered_Home_Page.png",
     code: "https://github.com/mykaelsss/MERN-EndangeredAnimals-Deployment",
     projectLink: "http://34.226.140.242/",
     tech: ["React", "Node.JS",  "MaterialUI", "Express", "MongoDB", "Tailwind"],
@@ -57,7 +57,7 @@ const projects = [
   },
   {
     title: "Finance Tracker",
-    imgSrc: "project-imgs/Finance_login.png",
+    imgSrc: "project-imgs/Finance_Login.png",
     code: "https://github.com/mykaelsss/finance_app",
     projectLink: "http://44.211.125.99/",
     tech: ["Java", "SpringBoot", "MySQL", "JSP"],
