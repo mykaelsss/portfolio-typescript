@@ -13,25 +13,25 @@ export const About = () => {
         <div>
           <Reveal>
             <p className={`${styles.aboutText} ${styles.highlightFirstLetter}`}>
-              Hey there! I'm Mykael, a recent bootcamp graduate,
-              and I'm super excited to kickstart my career in development.
+              Hey there! Iaspos;m Mykael, a recent bootcamp graduate,
+              and Iaspos;m super excited to kickstart my career in development.
               I specialize in the MERN stack,
-              but I'm always ready to learn new technologies to tackle any challenge.
+              but Iaspos;m always ready to learn new technologies to tackle any challenge.
             </p>
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
-            When I'm not coding, you'll find me immersed in video games—
-            I've been a passionate gamer since I was just 3 years old!
+            When Iaspos;m not coding, youaspos;ll find me immersed in video games—
+            Iaspos;ve been a passionate gamer since I was just 3 years old!
             Additionally, fitness is a big part of my life;
-            I've been working out since I was 15.
+            Iaspos;ve been working out since I was 15.
             </p>
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
-              I'm actively seeking new opportunities where I can put my skills to the test and continue growing as a developer.
-              If you know of any openings that might be a great fit, let's connect!
-              I'm eager to take on new challenges and make a positive impact in the world of development.
+              Iaspos;m actively seeking new opportunities where I can put my skills to the test and continue growing as a developer.
+              If you know of any openings that might be a great fit, letaspos;s connect!
+              Iaspos;m eager to take on new challenges and make a positive impact in the world of development.
               🔗
             </p>
           </Reveal>
