@@ -126,4 +126,38 @@ const projects = [
       </>
     ),
   },
+  {
+    title: "Wedding Site",
+    imgSrc: "project-imgs/Wedding_SS.png",
+    code: "https://github.com/mykaelsss/wed-typescript",
+    projectLink: "https://wed-typescript-frontend.vercel.app/",
+    tech: ["React", "Tailwind", "MongoDB", "Node.js", "Express", "Vercel"],
+    description:
+      "A web app created for my sisters wedding.",
+    modalContent: (
+      <>
+        <p>
+        This web application has been developed with the primary aim of providing individuals access to vital information effortlessly.
+        It serves as a comprehensive platform enabling users not only to conveniently access all necessary information but also to seamlessly RSVP for events and effortlessly navigate through the registry.
+        </p>
+        <p>
+        The project was skillfully developed using a versatile tech stack that brings together JavaScript, React, and Tailwind for the frontend.
+        On the backend, I harnessed the capabilities of Node.JS and Express to establish a smooth and cohesive user experience.
+        In terms of data storage, MongoDB was selected as the database, ensuring a reliable and high-performance solution.
+        </p>
+        <p>
+        As the full stack developer, I held a central role in establishing flawless connectivity among the frontend, backend, and database components of this project.
+        Through meticulous coordination of the integration process, I facilitated the seamless transition of data from the user interface to backend functions and subsequently to the database.
+        This comprehensive approach yielded an efficient and unified application that not only fulfilled project criteria but also delivered an uninterrupted user experience.
+        </p>
+        <p>
+          Throughout the creation of this project, I poured a wealth of passion into every aspect.
+          My goal extended beyond merely fulfilling functional requirements; I aspired to craft a solution that resonated deeply with my vision while also becoming a source of delight for my sister.
+          Witnessing the final outcome of this web application fills me with immense satisfaction.
+          The successful culmination of this endeavor not only aligns with my original aspirations but also brings me a profound sense of joy knowing that I've created something meaningful for my sister.
+          This experience has solidified my conviction in the power of technology to channel personal sentiments into tangible and functional creations, making the journey all the more rewarding.
+        </p>
+      </>
+    ),
+  },
 ];
