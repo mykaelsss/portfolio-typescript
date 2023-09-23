@@ -97,7 +97,7 @@ const projects = [
     title: "LFG",
     imgSrc: "project-imgs/LFG_home_page.png",
     code: "https://github.com/mykaelsss/lfg_project",
-    projectLink: "http://18.233.168.135/",
+    projectLink: "http://3.84.133.113",
     tech: ["Python", "Flask", "Bootstrap", "MySQL"],
     description:
       "A social network for gamers to find groups to play with.",
