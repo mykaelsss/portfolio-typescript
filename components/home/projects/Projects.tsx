@@ -56,44 +56,6 @@ const projects = [
     ),
   },
   {
-    title: "Finance Tracker",
-    imgSrc: "project-imgs/Finance_Login.png",
-    code: "https://github.com/mykaelsss/finance_app",
-    projectLink: "http://44.211.125.99/",
-    tech: ["Java", "SpringBoot", "MySQL", "JSP"],
-    description:
-      "A simple web application to track your daily expenses.",
-    modalContent: (
-      <>
-        <p>
-          Finance tracker was a web app that I created to allow anyone to keep track of their daily expenses
-          in a simple way.
-        </p>
-        <p>
-        For this project, I utilized a well-rounded tech stack to deliver a robust and efficient application.
-        I employed JSP and Bootstrap to create an intuitive and visually appealing frontend, allowing users to interact with the platform seamlessly.
-        On the backend, I leveraged Java and SpringBoot to develop a powerful and scalable infrastructure that handled complex business logic effectively.
-        The database was implemented using MySQL, ensuring secure and reliable data storage and retrieval for the Finance Tracker application.
-        </p>
-        <p>
-        As the full-stack developer of this project, I took on the crucial responsibility of ensuring seamless communication between the frontend, backend, and database.
-        By carefully integrating the components, I facilitated a smooth user experience and efficient data handling.
-        My role encompassed bridging the gap between the user interface and the backend functionality, guaranteeing a cohesive and well-functioning web application.
-        </p>
-        <p>
-        For deploying the website, I opted for Amazon EC2 web services, which provided a stable and reliable platform.
-        By utilizing Amazon EC2, I ensured a robust deployment environment, capable of handling various traffic loads and delivering consistent performance to users.
-        This choice of web services allowed for easy scalability, efficient resource management, and enhanced overall reliability for the deployed website.
-        </p>
-        <p>
-        Creating this project was an immensely enjoyable experience, and it served as a valuable learning opportunity.
-        Throughout the development process, I acquired a wealth of knowledge and skills, enhancing my expertise as a full-stack developer.
-        The project not only challenged me to apply my technical know-how but also instilled a sense of accomplishment upon its completion.
-        </p>
-      </>
-    ),
-  },
-  {
     title: "LFG",
     imgSrc: "project-imgs/LFG_home_page.png",
     code: "https://github.com/mykaelsss/lfg_project",
