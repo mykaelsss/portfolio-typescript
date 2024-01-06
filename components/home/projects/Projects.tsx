@@ -122,4 +122,37 @@ const projects = [
       </>
     ),
   },
+    {
+    title: "Cioso",
+    imgSrc: "project-imgs/Cioso.png",
+    code: "https://github.com/mykaelsss/CiosoNYC",
+    projectLink: "https://ciosonyc.vercel.app/",
+    tech: ["React", "Tailwind", "Sass", "Vercel"],
+    description:
+      "Collabarated with two FIT students to help bring there project to life.",
+    modalContent: (
+      <>
+        <p>
+        This website was created with the goal of taking my colleague's wireframe and bringing it to life as well as adding ideas and enhancing others.
+        </p>
+        <p>
+        Combining TypeScript, React, Tailwind CSS, and Sass provides a powerful and flexible foundation for developing modern web applications.
+        TypeScript ensures a robust and typed codebase, React facilitates the creation of dynamic user interfaces, Tailwind CSS streamlines styling with utility classes, and Sass enhances the styling capabilities with its features.
+        This tech stack is popular for its ability to improve developer productivity, code maintainability, and overall project scalability.
+
+        </p>
+        <p>
+        As the frontend developer, I played a pivotal role in ensuring seamless connectivity within the project's frontend components.
+        By meticulously orchestrating the integration process, I facilitated the smooth flow of data from the user interface to backend functionalities and, ultimately, to the database.
+        This holistic approach resulted in an efficient and cohesive frontend application. It not only met the project's requirements but also provided users with an uninterrupted and satisfying experience.
+        </p>
+        <p>
+          Throughout the development of this project, I invested a significant amount of passion into every facet.
+          My objective went beyond simply meeting functional requirements; I aimed to fashion a solution that resonated deeply with my vision and provided a source of joy for my colleagues.
+          Observing the final outcome of this website fills me with immense satisfaction.
+          The successful completion of this endeavor not only aligns with my initial aspirations but also brings me a profound sense of happiness, knowing that I've crafted something meaningful for my team members.
+          This experience has strengthened my belief in the ability of technology to transform personal sentiments into tangible and functional creations, making the journey exceptionally rewarding.
+        </p>
+      </>
+    ),
 ];
