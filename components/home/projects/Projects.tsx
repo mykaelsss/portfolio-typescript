@@ -122,7 +122,7 @@ const projects = [
       </>
     ),
   },
-    {
+  {
     title: "Cioso",
     imgSrc: "project-imgs/Cioso.png",
     code: "https://github.com/mykaelsss/CiosoNYC",
@@ -139,7 +139,6 @@ const projects = [
         Combining TypeScript, React, Tailwind CSS, and Sass provides a powerful and flexible foundation for developing modern web applications.
         TypeScript ensures a robust and typed codebase, React facilitates the creation of dynamic user interfaces, Tailwind CSS streamlines styling with utility classes, and Sass enhances the styling capabilities with its features.
         This tech stack is popular for its ability to improve developer productivity, code maintainability, and overall project scalability.
-
         </p>
         <p>
         As the frontend developer, I played a pivotal role in ensuring seamless connectivity within the project's frontend components.
@@ -155,4 +154,5 @@ const projects = [
         </p>
       </>
     ),
+  },
 ];
