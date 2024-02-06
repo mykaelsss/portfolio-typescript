@@ -155,4 +155,33 @@ const projects = [
       </>
     ),
   },
+  {
+    title: "LinkList",
+    imgSrc: "project-imgs/linklist.png",
+    code: "https://github.com/mykaelsss/LinkList",
+    projectLink: "https://linkslisted.vercel.app/",
+    tech: ["Next.js", "Tailwind", "Supabase", "Vercel"],
+    description:"Developed a website akin to Linktree, providing users with a centralized platform to showcase and organize their various links in one location.",
+    modalContent: (
+      <>
+        <p>
+          This website was created with the goal of taking allowing user to seamlessly create, share and save links in a database for easy access later on.
+        </p>
+        <p>
+        The synergy of TypeScript, Next.js, Tailwind CSS, and Supabase forms a versatile foundation for crafting contemporary web applications.
+        TypeScript ensures a resilient and well-typed codebase, React empowers dynamic user interfaces,
+        Tailwind CSS simplifies styling through utility classes styling capabilities.
+        Widely recognized for enhancing developer productivity, code maintainability, and overall project scalability,
+        this tech stack is favored in modern web development.
+        </p>
+        <p>
+          In my capacity as the frontend developer, I assumed a crucial role in establishing seamless connectivity among the project's frontend components.
+          Through meticulous coordination of the integration process,
+          I ensured the smooth transmission of data from the user interface to backend functionalities and, subsequently, to the database.
+          This comprehensive approach led to the creation of an efficient and cohesive
+          frontend application that not only met the project's requirements but also delivered users an uninterrupted and gratifying experience.
+        </p>
+      </>
+    ),
+  },
 ];
