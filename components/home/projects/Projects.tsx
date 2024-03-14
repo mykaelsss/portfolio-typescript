@@ -50,7 +50,7 @@ const projects = [
     title: "LFG",
     imgSrc: "project-imgs/LFG_home_page.png",
     code: "https://github.com/mykaelsss/lfg_project",
-    projectLink: "http://18.233.168.135/",
+    projectLink: "http://3.90.37.67/",
     tech: ["Python", "Flask", "Bootstrap", "MySQL"],
     description:
       "A social network for gamers to find groups to play with.",
@@ -116,7 +116,7 @@ const projects = [
     title: "Wedding Site",
     imgSrc: "project-imgs/Wedding_SS.png",
     code: "https://github.com/mykaelsss/wed-typescript",
-    projectLink: "https://wed-typescript-frontend.vercel.app/",
+    projectLink: "https://weddingreservation.vercel.app/",
     tech: ["React", "Tailwind", "MongoDB", "Node.js", "Express", "Vercel"],
     description:
       "A web app created for my sisters wedding.",
