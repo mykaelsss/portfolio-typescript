@@ -13,16 +13,20 @@ export const Stats = () => {
           </h4>
           <div className={styles.statGrid}>
             <span className="chip">JavaScript</span>
+            <span className="chip">TypeScript</span>
             <span className="chip">Python</span>
             <span className="chip">Java</span>
             <span className="chip">HTML</span>
             <span className="chip">CSS</span>
             <span className="chip">React</span>
             <span className="chip">Node.js</span>
+            <span className="chip">Next.js</span>
             <span className="chip">Express</span>
             <span className="chip">MySQL</span>
+            <span className="chip">PostgreSQL</span>
             <span className="chip">MongoDB</span>
             <span className="chip">GitHub</span>
+            <span className="chip">Git</span>
             <span className="chip">Bootstrap</span>
             <span className="chip">Tailwind</span>
             <span className="chip">Flask</span>
@@ -37,10 +41,7 @@ export const Stats = () => {
             <span>Currently Learning</span>
           </h4>
           <div className={styles.statGrid}>
-            <span className="chip">Typescript</span>
-            <span className="chip">Figma</span>
-            <span className="chip">Next.js</span>
-            <span className="chip">GraphQL</span>
+            <span className="chip">Docker</span>
           </div>
         </div>
       </Reveal>
