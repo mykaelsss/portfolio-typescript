@@ -12,25 +12,32 @@ export const Stats = () => {
             <span>Currently Know</span>
           </h4>
           <div className={styles.statGrid}>
-            <span className="chip">JavaScript</span>
             <span className="chip">TypeScript</span>
+            <span className="chip">JavaScript</span>
             <span className="chip">Python</span>
             <span className="chip">Java</span>
             <span className="chip">HTML</span>
             <span className="chip">CSS</span>
             <span className="chip">React</span>
-            <span className="chip">Node.js</span>
             <span className="chip">Next.js</span>
-            <span className="chip">Express</span>
-            <span className="chip">MySQL</span>
-            <span className="chip">PostgreSQL</span>
-            <span className="chip">MongoDB</span>
-            <span className="chip">GitHub</span>
-            <span className="chip">Git</span>
-            <span className="chip">Bootstrap</span>
             <span className="chip">Tailwind</span>
+            <span className="chip">Material UI</span>
+            <span className="chip">Bootstrap</span>
+            <span className="chip">TanStack Query</span>
+            <span className="chip">tRPC</span>
+            <span className="chip">Node.js</span>
+            <span className="chip">Express</span>
             <span className="chip">Flask</span>
-            <span className="chip">Spring</span>
+            <span className="chip">FastAPI</span>
+            <span className="chip">Prisma</span>
+            <span className="chip">PostgreSQL</span>
+            <span className="chip">MySQL</span>
+            <span className="chip">MongoDB</span>
+            <span className="chip">Redis</span>
+            <span className="chip">Docker</span>
+            <span className="chip">AWS</span>
+            <span className="chip">Git</span>
+            <span className="chip">GitHub</span>
           </div>
         </div>
       </Reveal>
@@ -41,7 +48,7 @@ export const Stats = () => {
             <span>Currently Learning</span>
           </h4>
           <div className={styles.statGrid}>
-            <span className="chip">Docker</span>
+            <span className="chip">Go</span>
           </div>
         </div>
       </Reveal>

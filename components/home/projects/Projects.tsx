@@ -18,6 +18,77 @@ export const Projects = () => {
 
 const projects = [
   {
+    title: "Formalytx",
+    imgSrc: "project-imgs/formalytx.png",
+    code: "https://github.com/mykaelsss/f1_telemetry",
+    projectLink: "https://formalytx.com/",
+    tech: ["Next.js", "TypeScript", "Tailwind", "FastAPI", "Python", "Docker"],
+    description:
+      "An F1 telemetry explorer — browse seasons, sessions, and driver laps, and visualize raw car telemetry.",
+    modalContent: (
+      <>
+        <p>
+          Formalytx is a Formula 1 telemetry explorer that lets users navigate F1 seasons, events, and sessions —
+          then dive into driver laps and raw car telemetry, all in one place. Pick a year and event, choose a session,
+          select drivers to compare, and plot lap times and telemetry channels like speed, throttle, and brake.
+        </p>
+        <p>
+          The frontend is built with Next.js (App Router), React, and TypeScript, styled with Tailwind CSS and shadcn/ui,
+          with ECharts powering the interactive telemetry visualizations and TanStack Query handling data fetching and caching.
+          The backend is a FastAPI service written in Python, sourcing data through the open-source FastF1 library,
+          all containerized with Docker and served behind an nginx reverse proxy.
+        </p>
+        <p>
+          As the sole developer, I designed and built the entire stack — from the REST API endpoints serving season
+          schedules, session results, and lap telemetry, to the charting interface that renders thousands of telemetry
+          data points smoothly. This project pushed me to coordinate a multi-service architecture and deliver a fast,
+          polished experience on top of large, real-world datasets.
+        </p>
+        <p>
+          As a Formula 1 fan, this project was a true passion build. Combining my love for the sport with full-stack
+          engineering made every part of the process rewarding, and seeing real race data come to life in the explorer
+          is something I&apos;m genuinely proud of.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "54th and Thread",
+    imgSrc: "project-imgs/54thandthread.png",
+    code: "https://github.com/mykaelsss/54thandthread",
+    projectLink: "https://54thandthread.vercel.app/",
+    tech: ["Next.js", "React", "TypeScript", "Tailwind", "Blender", "Vercel"],
+    description:
+      "Partnered with FIT students to bring their capstone fashion brand to life as a polished, production web experience.",
+    modalContent: (
+      <>
+        <p>
+          54th and Thread is a fashion brand site built in collaboration with students from the Fashion
+          Institute of Technology. Much like my earlier Cioso project, the goal was to take their capstone
+          concept and recreate it as a real, live web experience — translating their brand vision, visuals,
+          and identity into a polished site.
+        </p>
+        <p>
+          The site is built with Next.js (App Router), React, and TypeScript, styled with Tailwind CSS, and
+          deployed on Vercel with Vercel Blob handling media storage. Beyond the code, I also stepped into 3D
+          design — creating the spinning globe animation featured on the site myself in Blender, blending
+          motion design with web development to give the brand a distinctive centerpiece.
+        </p>
+        <p>
+          As the developer on the project, I owned the full build — from interpreting the students&apos;
+          designs and brand direction to implementing responsive layouts, marquee animations, and media-rich
+          sections that perform smoothly across devices. Working from someone else&apos;s creative vision
+          sharpened my eye for detail and my ability to translate design intent faithfully into code.
+        </p>
+        <p>
+          Collaborating with designers outside of tech is something I genuinely enjoy — these projects push
+          me to care as much about the feel of a site as its function, and seeing the students&apos; reaction
+          to their brand living on the web made this one especially rewarding.
+        </p>
+      </>
+    ),
+  },
+  {
     title: "LinkList",
     imgSrc: "project-imgs/linklist.png",
     code: "https://github.com/mykaelsss/LinkList",

@@ -19,9 +19,9 @@ export const Hero = () => {
         </Reveal>
         <Reveal>
           <p className={styles.aboutCopy}>
-            Having spent the last year learning and refining my development skills, I&apos;m now thrilled
-            to be part of a dynamic team that can help take my abilities to the next level!
-            Let&apos;s connect!
+            I&apos;ve spent the last few years building production web apps — from
+            compliance systems and subscription platforms to a live F1 telemetry
+            explorer. I&apos;m always looking for the next challenge. Let&apos;s connect!
           </p>
         </Reveal>
         <Reveal>

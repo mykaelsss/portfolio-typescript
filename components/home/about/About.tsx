@@ -13,10 +13,12 @@ export const About = () => {
         <div>
           <Reveal>
             <p className={`${styles.aboutText} ${styles.highlightFirstLetter}`}>
-              Hey there! I&apos;m Mykael, a recent bootcamp graduate,
-              and I&apos;m super excited to kickstart my career in development.
-              I specialize in the MERN stack,
-              but I&apos;m always ready to learn new technologies to tackle any challenge.
+              Hey there! I&apos;m Mykael, a full stack developer with 2+ years of
+              experience shipping production features across TypeScript, React,
+              Next.js, and Python. I&apos;m an AWS Certified Cloud Practitioner, and
+              I currently teach full stack development as a TA at Research
+              Foundation CUNY — but I&apos;m always ready to learn new technologies
+              to tackle any challenge.
             </p>
           </Reveal>
           <Reveal>
